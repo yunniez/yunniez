@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=60&animation=fadeIn&fontAlignY=45&desc=this%20is%20Yunnie's%20GitHub%20Profile&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=60&animation=fadeIn&fontAlignY=45&desc=this%20is%20Yunnie's%20GitHub%20Profile&descAlignY=60&descAlign=62)
 <br>
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
