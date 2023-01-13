@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 Hi there 👋
 <br>
 안녕하세요 :)<br>
-여행이 좋아 외국어를 전공했지만 <br>
-현재는 웹 개발자로 근무하고 있는 정희윤입니다.<br>
+1년차 웹 개발자 정희윤입니다.<br>
 <br>
 </p>
 
