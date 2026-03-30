@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 Hi there 👋
 <br>
 안녕하세요 :)<br>
-1년차 웹 개발자 정희윤입니다.<br>
+5년차 웹 개발자 정희윤입니다.<br>
 <br>
 </p>
 
